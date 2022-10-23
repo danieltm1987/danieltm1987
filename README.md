@@ -1,4 +1,11 @@
+# Daniel Alfonso Torres Martinez
 ### Hi there 👋
+Debemos actualizar PIP
+
+```
+python -m pip install --upgrade pip
+```
+
 ### Hola Mundo
 <!--
 **danieltm1987/danieltm1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
